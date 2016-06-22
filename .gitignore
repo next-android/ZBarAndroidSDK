@@ -14,7 +14,22 @@ gen/
 
 # Gradle files
 .gradle/
+.idea/
 build/
+gradle/
+
+ZBarBuild/.externalToolBuilders
+ZBarBuild/.settings
+ZBarBuild/bin
+ZBarBuild/build
+ZBarBuild/gen
+ZBarBuild/obj
+
+ZBarScanProjAll/.settings
+ZBarScanProjAll/build
+ZBarScanProjAll/bin
+ZBarScanProjAll/gen
+
 
 # Local configuration file (sdk path, etc)
 local.properties
